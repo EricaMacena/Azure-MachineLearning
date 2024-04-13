@@ -8,3 +8,5 @@
 ### Detalhes do Workspace
 ### Name: Definir um nome para o seu laboratório
 ### Storage, Key e Application: Manter conforme foram criados automaticamente.
+
+![Texto Alternativo](imagens/Etapa1.png)
