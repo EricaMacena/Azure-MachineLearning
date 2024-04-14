@@ -82,4 +82,5 @@
 
 #### 12. A previsão gerada foi: 361.95
 
+![Parte 1](imagens/Resultado.png)
 
