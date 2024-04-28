@@ -27,3 +27,9 @@
 
 ### 3. Criamos um Container e foi nomeado como coffeereviews:
 ![Parte 1](imagens/Passo7.png)
+
+---
+
+### 4. Usamos o mecanismo de busca no IA Search, você trás várias análises de sentimentos:
+![Parte 1](imagens/Passo8.png)
+
