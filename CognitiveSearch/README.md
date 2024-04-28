@@ -30,6 +30,6 @@
 
 ---
 
-### 4. Usamos o mecanismo de busca no IA Search, você trás várias análises de sentimentos:
+### 4. Usamos o mecanismo de busca no IA Search, para verificar análises de sentimentos:
 ![Parte 1](imagens/Passo8.png)
 
