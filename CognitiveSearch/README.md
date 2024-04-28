@@ -6,7 +6,7 @@
 
 ---
 
-### 2. Em seguida, é necessário criar uma conta de armazenamento no Storage accounts:
+### 2. Em seguida, foi necessário criar uma conta de armazenamento no Storage accounts:
 
 #### Acessei o Storage:
 ![Parte 1](imagens/Passo2.png)
@@ -20,5 +20,10 @@
 #### É possível armazenar dados Arquivos, Tabelas, Filas..
 ![Parte 1](imagens/Passo5.png)
 
-### 3. Na opção Settings, foi definido algumas configurações:
+#### Na opção Settings, foi definido algumas configurações:
 ![Parte 1](imagens/Passo6.png)
+
+--- 
+
+### 3. Criamos um Container e foi nomeado como coffeereviews:
+![Parte 1](imagens/Passo7.png)
