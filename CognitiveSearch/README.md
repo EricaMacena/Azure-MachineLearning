@@ -17,6 +17,8 @@
 #### Feito isso, definimos as configurações:
 ![Parte 1](imagens/Passo4.png)
 
+#### É possível armazenar dados Arquivos, Tabelas, Filas..
+![Parte 1](imagens/Passo5.png)
 
 ---
 
